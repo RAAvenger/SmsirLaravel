@@ -1,5 +1,5 @@
 {
-    "name": "Ipecompany/Smsirlaravel",
+    "name": "reza_adibi/smsirlaravel",
     "description": "Official Sms.ir Laravel Package",
     "keywords": ["laravel", "sms", "پیامک", "اس ام اس", "sendsms", "notifacation", "sms.ir"],
     "license": "MIT",
@@ -15,8 +15,8 @@
         }
     },
     "require": {
-        "guzzlehttp/guzzle": "~6.0",
+        "guzzlehttp/guzzle": "~7.4",
         "zendframework/zend-diactoros" : "1.*.*",
-        "symfony/psr-http-message-bridge" : "1.*.*"
+        "symfony/psr-http-message-bridge" : "2.0.*"
     }
 }
